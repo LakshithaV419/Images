@@ -1,0 +1,76 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="665.68" height="325.984" viewBox="0 0 665.68 325.984" preserveAspectRatio="xMidYMid meet" zoomAndPan="magnify" version="1.1" contentScriptType="application/ecmascript" contentStyleType="text/css">
+   <rect x="27.884" y="27.708" width="127.759" height="269.93" fill="#00c1de"/>
+   <rect x="467.485" y="27.708" width="127.528" height="269.93" fill="#95d600"/>
+   <text transform="translate(60.754 170.616)" font-size="18" fill="#333e48" font-family="Lato-Medium, Lato" font-weight="500">
+      <tspan letter-spacing="-0.033em">Manager</tspan>
+   </text>
+   <text transform="translate(255.401 261.203)" font-size="18" fill="#333e48" font-family="Lato-Medium, Lato" font-weight="500">
+      <tspan letter-spacing="-0.033em">R</tspan>
+      <tspan x="10.755" y="0">ead </tspan>
+      <tspan x="43.938" y="0" letter-spacing="-0.013em">D</tspan>
+      <tspan x="57.393" y="0" letter-spacing="-0.006em">a</tspan>
+      <tspan x="66.267" y="0" xml:space="preserve">ta  (R)</tspan>
+   </text>
+   <text transform="translate(236.623 218.919)" font-size="18" fill="#333e48" font-family="Lato-Medium, Lato" font-weight="500">
+      <tspan letter-spacing="-0.033em">R</tspan>
+      <tspan x="10.755" y="0">ead</tspan>
+      <tspan x="39.393" y="0" letter-spacing="-0.034em"> </tspan>
+      <tspan x="43.335" y="0" letter-spacing="-0.011em">A</tspan>
+      <tspan x="55.404" y="0">dd</tspan>
+      <tspan x="75.636" y="0" letter-spacing="-0.019em">r</tspan>
+      <tspan x="81.891" y="0" xml:space="preserve">ess  (AR)</tspan>
+   </text>
+   <text transform="translate(233.184 133.535)" font-size="18" fill="#333e48" font-family="Lato-Medium, Lato" font-weight="500">
+      <tspan letter-spacing="-0.043em">W</tspan>
+      <tspan x="17.928" y="0">ri</tspan>
+      <tspan x="28.908" y="0" letter-spacing="-0.003em">t</tspan>
+      <tspan x="35.37" y="0">e </tspan>
+      <tspan x="49.446" y="0" letter-spacing="-0.033em">R</tspan>
+      <tspan x="60.201" y="0" xml:space="preserve">esponse  (B)</tspan>
+   </text>
+   <text transform="translate(249.181 91.236)" font-size="18" fill="#333e48" font-family="Lato-Medium, Lato" font-weight="500">
+      <tspan letter-spacing="-0.043em">W</tspan>
+      <tspan x="17.928" y="0">ri</tspan>
+      <tspan x="28.908" y="0" letter-spacing="-0.003em">t</tspan>
+      <tspan x="35.37" y="0">e </tspan>
+      <tspan x="49.446" y="0" letter-spacing="-0.013em">D</tspan>
+      <tspan x="62.901" y="0" letter-spacing="-0.006em">a</tspan>
+      <tspan x="71.775" y="0" xml:space="preserve">ta  (W)</tspan>
+   </text>
+   <text transform="translate(230.799 48.386)" font-size="18" fill="#333e48" font-family="Lato-Medium, Lato" font-weight="500">
+      <tspan letter-spacing="-0.043em">W</tspan>
+      <tspan x="17.928" y="0">ri</tspan>
+      <tspan x="28.908" y="0" letter-spacing="-0.003em">t</tspan>
+      <tspan x="35.37" y="0">e</tspan>
+      <tspan x="44.901" y="0" letter-spacing="-0.033em"> </tspan>
+      <tspan x="48.843" y="0" letter-spacing="-0.011em">A</tspan>
+      <tspan x="60.912" y="0">dd</tspan>
+      <tspan x="81.144" y="0" letter-spacing="-0.019em">r</tspan>
+      <tspan x="87.398" y="0" xml:space="preserve">ess  (</tspan>
+      <tspan x="126.502" y="0" letter-spacing="-0.044em">A</tspan>
+      <tspan x="137.977" y="0">W)</tspan>
+   </text>
+   <text transform="translate(485.733 170.616)" font-size="18" fill="#333e48" font-family="Lato-Medium, Lato" font-weight="500">
+      <tspan letter-spacing="-0.01em">Subordinate</tspan>
+   </text>
+   <g>
+      <line x1="155.643" y1="56.693" x2="461.745" y2="56.693" fill="none" stroke="#333e48" stroke-miterlimit="10"/>
+      <polygon points="460.578 60.682 467.485 56.693 460.578 52.704 460.578 60.682" fill="#333e48"/>
+   </g>
+   <g>
+      <line x1="155.643" y1="99.213" x2="461.745" y2="99.213" fill="none" stroke="#333e48" stroke-miterlimit="10"/>
+      <polygon points="460.578 103.201 467.485 99.213 460.578 95.224 460.578 103.201" fill="#333e48"/>
+   </g>
+   <g>
+      <line x1="161.384" y1="141.732" x2="467.485" y2="141.732" fill="none" stroke="#333e48" stroke-miterlimit="10"/>
+      <polygon points="162.551 145.721 155.643 141.733 162.551 137.744 162.551 145.721" fill="#333e48"/>
+   </g>
+   <g>
+      <line x1="161.384" y1="269.055" x2="467.485" y2="269.055" fill="none" stroke="#333e48" stroke-miterlimit="10"/>
+      <polygon points="162.551 273.044 155.643 269.055 162.551 265.066 162.551 273.044" fill="#333e48"/>
+   </g>
+   <g>
+      <line x1="155.643" y1="226.535" x2="461.745" y2="226.535" fill="none" stroke="#333e48" stroke-miterlimit="10"/>
+      <polygon points="460.578 230.524 467.485 226.536 460.578 222.547 460.578 230.524" fill="#333e48"/>
+   </g>
+</svg>
